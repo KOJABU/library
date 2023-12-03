@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgresql+psycopg2://postgres:Safa2018@localhost:5432/books_project'
